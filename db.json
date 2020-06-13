@@ -1,7 +1,10 @@
-[
 {
-'name' : "Shehan Guruge",
-'address': "Colombo",
-'contact' : "0719302755"
+  "customers" : [
+    {
+    'name' : "Shehan Guruge",
+    'address': "Colombo",
+    'contact' : "0719302755"
+    }
+  ]
 }
-]
+
