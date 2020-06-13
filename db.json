@@ -1,5 +1,113 @@
 {
   "customers" : [
+    {
+    "id" : "1",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
     
+    {
+    "id" : "2",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "3",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "4",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "5",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "6",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "7",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "8",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "9",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "10",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "11",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "12",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "13",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "14",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "15",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "16",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "17",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    },
+    {
+    "id" : "18",
+    "name" : "Shehan Guruge",
+    "address": "Colombo",
+    "contact" : "0719302755"
+    }
   ]
 }
